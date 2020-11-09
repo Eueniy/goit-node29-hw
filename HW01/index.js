@@ -25,11 +25,3 @@ function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-
-//========================================
-// const item = require("./export-item");
-
-// console.log(item);
-// console.log(global.external);
-// console.log(__dirname);
-// console.log(process.env);
